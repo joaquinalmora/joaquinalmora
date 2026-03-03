@@ -1,5 +1,3 @@
-# Joaquin Almora
-
 I like building backend systems and developer tools.
 
 ## Featured Projects
