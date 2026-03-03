@@ -1,6 +1,6 @@
 # Joaquin Almora
 
-I build backend systems and developer tools—usually things involving APIs, queues, and the infrastructure behind software.
+I like building backend systems and developer tools.
 
 ## Featured Projects
 
