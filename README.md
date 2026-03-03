@@ -1,56 +1,72 @@
-I like building backend systems and developer tools.
+# Joaquin Almora
+
+I build backend systems and developer tools—usually things involving APIs, queues, and the infrastructure behind software.
 
 ## Featured Projects
 
 ### Project Analyzer (Capstone)
-[Repository](https://github.com/COSC-499-W2025/capstone-project-team-7)
+[Repository](REPLACE_WITH_CAPSTONE_REPO_LINK)
 
 Desktop application that scans local software projects and converts them into structured portfolio entries and resume bullets using real code evidence.
 
-The system analyzes source code, git history, and project artifacts to extract technologies, skills, and contributions.
+- project scanning (code/git/docs/media)
+- skills extraction with code evidence
+- contribution analysis from git history
+- resume + portfolio generation
+- optional AI insights (user-provided key + consent)
 
-**Core Features**
-
-- **Project Scanning** – analyzes repositories for languages, file metrics, git history, media, and documents  
-- **Skills Extraction** – detects frameworks, algorithms, and engineering patterns from code  
-- **Contribution Analysis** – evaluates git history to estimate contributor roles and ownership  
-- **Resume Generation** – produces structured resume bullets from scanned projects  
-- **Portfolio Management** – organize and rank projects with custom roles and chronology  
-- **Optional AI Insights** – deeper summaries using OpenAI (user-provided key)
-
-**Architecture**
-
-- **Frontend:** Next.js + React + TypeScript  
-- **Backend:** FastAPI (Python) with modular analyzers  
-- **Database:** Supabase (PostgreSQL)  
-- **Desktop:** Electron wrapper for local-first workflow
-
-**Tech Stack**
-
-Next.js • React • TypeScript • FastAPI • Python • Supabase • PostgreSQL • Electron
+**Stack:** Next.js • TypeScript • FastAPI • Python • Supabase • Electron
 
 ---
 
 ### CommitGen
-[Repository](https://github.com/joaquinalmora/commitgen)
+[Repository](REPLACE_WITH_COMMITGEN_REPO_LINK)
 
-CLI tool that generates structured commit messages from git diffs.
+CLI that generates structured commit messages from git diffs.
 
-Built in Go with:
-- git hook integration  
-- configurable prompts  
-- caching and fallback logic  
+- git hook integration
+- configurable prompts
+- caching + fallback logic
 - CI/CD release automation
+
+**Stack:** Go
 
 ---
 
 ### Course Hover Info
-[Repository](https://github.com/joaquinalmora/hover-course)
+[Repository](REPLACE_WITH_CHROME_EXTENSION_REPO_LINK)
 
-Chrome extension that surfaces grade distributions and professor ratings directly inside UBC course pages.
+Chrome extension that surfaces grade distributions and professor ratings inside UBC course pages.
 
-Built using:
-- Manifest V3 architecture  
-- background + content scripts  
-- API aggregation  
+- Manifest V3 architecture
+- background/content scripts
+- API aggregation
 - local preference storage
+
+**Stack:** JavaScript • Chrome Extensions
+
+---
+
+## Build Principles
+
+- ship small, measure, iterate
+- automation > checklists
+- explicit failure modes > silent retries
+- local-first when it reduces friction
+
+## Proof Points
+
+- developer tooling with hooks + releases
+- modular analyzers for codebase intelligence
+- backend systems designed for real usage constraints
+
+## Selected Open Source
+
+- Kubetail — auth caching + RBAC correctness
+- Grafana k6 — error handling improvements
+- Nautobot — config hardening + tests
+
+## Now
+
+- building Project Analyzer (capstone)
+- improving skills extraction accuracy and evidence linking
