@@ -2,10 +2,6 @@
 
 I like building backend systems and developer tools.
 
-## GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinalmora&show_icons=true&hide_title=true)
-
 ## Featured Projects
 
 ### Project Analyzer (Capstone)
