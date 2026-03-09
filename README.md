@@ -2,7 +2,7 @@
 
 Backend-oriented software engineer building developer tools and systems that analyze and automate software workflows. Interested in backend architecture, developer infrastructure, and AI-assisted engineering tools.
 
-<p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/>
@@ -50,12 +50,19 @@ When I have time I like contributing fixes and improvements to infrastructure an
 
 ## Currently
 
-- Exploring AI-assisted developer workflows and difussion coding models
+- Exploring AI-assisted developer workflows and diffusion coding models  
 - Publishing my first iOS game
 
 ---
 
 ## Connect
 
-📧 **Email:** joaquin.almora@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/jalmora)
+<p align="center">
+<a href="mailto:joaquin.almora@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="24"/> joaquin.almora@gmail.com
+</a>
+<br/>
+<a href="https://linkedin.com/in/jalmora">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24"/> LinkedIn
+</a>
+</p>
