@@ -37,9 +37,8 @@ When I have time I like contributing fixes and small improvements to infrastruct
 ---
 ## Currently
 
-- Building backend systems and developer tools
-- Exploring AI-assisted developer workflows
-- Contributing to open-source infrastructure projects
+- Exploring AI-assisted developer workflows and difussion coding models
+- Publishing my first iOS game
 
 ---
 
@@ -52,7 +51,7 @@ When I have time I like contributing fixes and small improvements to infrastruct
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinalmora&show_icons=true&theme=default&hide_border=true)
+![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinalmora&show_icons=true&rank_icon=github&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact&hide_border=true&langs_count=8)
 
