@@ -46,4 +46,4 @@ When I have time I like contributing fixes and improvements to infrastructure an
 ## Connect
 
 📧 **Email:** joaquin.almora@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/jalmora](https://linkedin.com/in/jalmora)
+💼 [LinkedIn](https://linkedin.com/in/jalmora)
