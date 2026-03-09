@@ -98,12 +98,11 @@ I contribute fixes and improvements to open-source infrastructure and developer 
 
 ---
 
-## GitHub Stats (optional)
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinalmora&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinalmora&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact)
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact&hide_border=true)
 
 ---
 
