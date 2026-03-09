@@ -1,8 +1,6 @@
 # Joaquin Almora
 
-Backend-oriented software engineer building developer tools, APIs, and systems that analyze and automate software workflows.
-
-I’m particularly interested in backend architecture, developer infrastructure, and AI-assisted engineering tools.
+Backend-oriented software engineer building developer tools, APIs, and systems that analyze and automate software workflows. I’m particularly interested in backend architecture, developer infrastructure, and AI-assisted engineering tools.
 
 ---
 
@@ -12,22 +10,6 @@ I build systems that sit behind software: APIs, analysis pipelines, developer to
 My work often involves processing source code, integrating external services, and turning unstructured data (repos, diffs, logs, etc.) into structured outputs developers can use.
 
 Currently exploring ways to combine backend systems with AI-assisted developer workflows.
-
----
-
-## Technical Focus
-
-**Languages**  
-TypeScript • Python • Go • JavaScript
-
-**Backend / Systems**  
-Node.js • FastAPI • REST APIs • Git Hooks • CLI Tools
-
-**Data / Infrastructure**  
-PostgreSQL • Supabase • Git Data • Repository Analysis
-
-**Frontend (when needed)**  
-Next.js • Electron • Chrome Extensions
 
 ---
 
@@ -93,8 +75,8 @@ I contribute fixes and improvements to open-source infrastructure and developer 
 
 ## Connect
 
-📧 Email: **[your-email@example.com]**  
-🔗 LinkedIn: **[your-linkedin-url]**
+📧 Email: **[joaquin.almora@gmail.com]**  
+🔗 LinkedIn: **[linkedin.com/in/jalmora]**
 
 ---
 
@@ -104,15 +86,3 @@ I contribute fixes and improvements to open-source infrastructure and developer 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact&hide_border=true)
 
----
-
-## Notes / Optional Additions
-
-You can optionally add:
-
-- **Pinned blog posts**
-- **Recent GitHub activity**
-- **AI/ML experiments**
-- **Future projects**
-
-Example placeholder:
