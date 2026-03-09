@@ -32,9 +32,10 @@ Chrome extension that augments UBC course pages with grade distributions and pro
 
 ## Open Source Work
 
-When I have time I like contributing fixes and small improvements to infrastructure and developer tooling projects. I've worked on tools like [Kubetail](https://github.com/kubetail-org/kubetail) (Kubernetes log streaming), [Nautobot](https://github.com/nautobot/nautobot) (network automation), and [Grafana k6](https://github.com/grafana/k6) (performance testing), mainly around reliability improvements, authentication behavior, and clearer error handling. I also worked on a caching improvement for [go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn), exploring a Redis bloom-filter approach to reduce metadata size while maintaining fast lookups.
+When I have time I like contributing fixes and improvements to infrastructure and developer tooling projects. I've contributed to tools like [Kubetail](https://github.com/kubetail-org/kubetail) (a Kubernetes log-streaming CLI), where I implemented authentication caching to reduce repeated auth requests, added RBAC permissions for log access, and updated CI to support additional Ubuntu architectures. I’ve also submitted fixes to [Nautobot](https://github.com/nautobot/nautobot) (network automation) and [Grafana k6](https://github.com/grafana/k6) (performance testing), mainly improving reliability and error handling in edge cases such as missing configuration or clearer runtime errors. I also proposed a caching improvement for [go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn), exploring a Redis bloom-filter approach to reduce CDN metadata size while maintaining fast lookups.
 
 ---
+
 ## Currently
 
 - Exploring AI-assisted developer workflows and difussion coding models
@@ -44,17 +45,5 @@ When I have time I like contributing fixes and small improvements to infrastruct
 
 ## Connect
 
-📧 Email: **[joaquin.almora@gmail.com]**  
-🔗 LinkedIn: **[linkedin.com/in/jalmora]**
-
----
-
-## GitHub Stats
-
-![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinalmora&show_icons=true&rank_icon=github&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact&hide_border=true&langs_count=8)
-
-[![Project Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=COSC-499-W2025&repo=capstone-project-team-7&hide_border=true)](https://github.com/COSC-499-W2025/capstone-project-team-7)
-
-[![CommitGen](https://github-readme-stats.vercel.app/api/pin/?username=joaquinalmora&repo=commitgen&hide_border=true)](https://github.com/joaquinalmora/commitgen)
+📧 **Email:** joaquin.almora@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/jalmora](https://linkedin.com/in/jalmora)
