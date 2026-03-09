@@ -55,3 +55,6 @@ When I have time I like contributing fixes and small improvements to infrastruct
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact&hide_border=true&langs_count=8)
 
+[![Project Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=COSC-499-W2025&repo=capstone-project-team-7&hide_border=true)](https://github.com/COSC-499-W2025/capstone-project-team-7)
+
+[![CommitGen](https://github-readme-stats.vercel.app/api/pin/?username=joaquinalmora&repo=commitgen&hide_border=true)](https://github.com/joaquinalmora/commitgen)
