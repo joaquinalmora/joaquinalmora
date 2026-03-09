@@ -100,12 +100,9 @@ I contribute fixes and improvements to open-source infrastructure and developer 
 
 ## GitHub Stats (optional)
 
-<!-- If you want stats cards, uncomment and replace USERNAME -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinalmora&show_icons=true)
 
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact)
 -->
 
 ---
