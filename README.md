@@ -14,7 +14,6 @@ Backend-oriented software engineer building developer tools and systems that ana
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
 </p>
 
----
 
 ## Featured Projects
 
@@ -24,7 +23,6 @@ Desktop application that analyzes local repositories and converts code, commit h
 
 **Stack:** Next.js • TypeScript • FastAPI • Python • Supabase • Electron
 
----
 
 ### [CommitGen](https://github.com/joaquinalmora/commitgen)
 
@@ -32,7 +30,6 @@ CLI tool that generates structured commit messages directly from git diffs and i
 
 **Stack:** Go • Git Hooks
 
----
 
 ### [Course Hover Info](https://github.com/joaquinalmora/hover-course)
 
@@ -62,8 +59,6 @@ When I have time I like contributing fixes and improvements to infrastructure an
 
 - Exploring AI-assisted developer workflows and diffusion coding models  
 - Publishing my first iOS game
-
----
 
 ## Connect
 
