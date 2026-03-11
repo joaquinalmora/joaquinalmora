@@ -37,7 +37,6 @@ Chrome extension that augments UBC course pages with grade distributions and pro
 
 **Stack:** JavaScript • Chrome Extensions
 
----
 
 ## Contract Work
 
@@ -47,13 +46,11 @@ Backend system that processes receipt images through OpenAI Vision and returns s
 
 Achieved ~0.78s median end-to-end processing latency.
 
----
 
 ## Open Source Work
 
 When I have time I like contributing fixes and improvements to infrastructure and developer tooling projects. I've contributed to tools like [Kubetail](https://github.com/kubetail-org/kubetail) (a Kubernetes log-streaming CLI), where I implemented authentication caching to reduce repeated auth requests, added RBAC permissions for log access, and updated CI to support additional Ubuntu architectures. I’ve also submitted fixes to [Nautobot](https://github.com/nautobot/nautobot) (network automation) and [Grafana k6](https://github.com/grafana/k6) (performance testing), mainly improving reliability and error handling in edge cases such as missing configuration or clearer runtime errors. I also proposed a caching improvement for [go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn), exploring a Redis bloom-filter approach to reduce CDN metadata size while maintaining fast lookups.
 
----
 
 ## Currently
 
