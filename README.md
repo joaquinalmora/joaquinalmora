@@ -55,7 +55,7 @@ When I have time I like contributing fixes and improvements to infrastructure an
 ## Currently
 
 - Exploring AI-assisted developer workflows and diffusion coding models  
-- Publishing my first iOS game
+- Publishing my first iOS game, a word-based puzzle game (Sudoku-style logic with words).  
 
 ## Connect
 
