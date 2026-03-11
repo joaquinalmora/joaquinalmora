@@ -11,7 +11,7 @@ Backend-oriented software engineer building developer tools and systems that ana
 
 ### [Project Analyzer (Capstone)](https://github.com/COSC-499-W2025/capstone-project-team-7)
 
-Desktop application that analyzes local repositories and converts code, commit history, and project artifacts into structured portfolio and resume entries. The system processes repositories locally, extracts relevant signals from source code and git history, and generates structured project descriptions developers can reuse.
+Desktop application that analyzes local repositories and converts source code, commit history, and project artifacts into structured portfolio and resume entries.
 
 **Stack:** Next.js • TypeScript • FastAPI • Python • Supabase • Electron
 
@@ -50,7 +50,21 @@ Achieved ~0.78s median end-to-end processing latency.
 
 ## Open Source Work
 
-When I have time I like contributing fixes and improvements to infrastructure and developer tooling projects. I've contributed to tools like [Kubetail](https://github.com/kubetail-org/kubetail) (a Kubernetes log-streaming CLI), where I implemented authentication caching to reduce repeated auth requests, added RBAC permissions for log access, and updated CI to support additional Ubuntu architectures. I’ve also submitted fixes to [Nautobot](https://github.com/nautobot/nautobot) (network automation) and [Grafana k6](https://github.com/grafana/k6) (performance testing), mainly improving reliability and error handling in edge cases such as missing configuration or clearer runtime errors. I also proposed a caching improvement for [go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn), exploring a Redis bloom-filter approach to reduce CDN metadata size while maintaining fast lookups.
+Contributions to infrastructure and developer tooling projects.
+
+**[Kubetail](https://github.com/kubetail-org/kubetail)** – Kubernetes log-streaming CLI  
+- Implemented authentication caching to reduce repeated auth requests  
+- Added RBAC permissions for log access  
+- Expanded CI to support additional Ubuntu architectures  
+
+**[Nautobot](https://github.com/nautobot/nautobot)** – Network automation platform  
+- Improved error handling and runtime messaging for configuration issues  
+
+**[Grafana k6](https://github.com/grafana/k6)** – Performance testing tool  
+- Fixed reliability issues in edge cases involving missing configuration  
+
+**[go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn)** – CDN metadata service  
+- Proposed Redis bloom-filter caching approach to reduce metadata size while maintaining fast lookups
 
 
 ## Currently
@@ -58,9 +72,6 @@ When I have time I like contributing fixes and improvements to infrastructure an
 - Exploring AI-assisted developer workflows and diffusion coding models  
 - Publishing my first iOS game, a word-based puzzle game (Sudoku-style logic with words).
 
-## GitHub Stats
-
-![GitHub Stats](./assets/github-stats.svg)
 
 ## Connect
 
