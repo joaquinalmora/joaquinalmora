@@ -15,6 +15,15 @@ Desktop application that analyzes local repositories and converts code, commit h
 
 **Stack:** Next.js • TypeScript • FastAPI • Python • Supabase • Electron
 
+#### Architecture
+
+```mermaid
+flowchart LR
+    A[Local Repository] --> B[Analyzer Engine]
+    B --> C[Code + Commit Signal Extraction]
+    C --> D[Structured Project Model]
+    D --> E[Portfolio / Resume Output]
+```
 
 ### [CommitGen](https://github.com/joaquinalmora/commitgen)
 
