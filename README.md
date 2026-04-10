@@ -9,7 +9,7 @@ Backend-oriented software engineer building developer tools and systems that ana
 
 ## Featured Projects
 
-### [Project Analyzer (Capstone)](https://github.com/COSC-499-W2025/capstone-project-team-7)
+### [DevFolio](https://github.com/COSC-499-W2025/capstone-project-team-7)
 
 Desktop application that analyzes local repositories and converts source code, commit history, and project artifacts into structured portfolio and resume entries.
 
