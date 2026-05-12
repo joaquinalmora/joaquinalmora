@@ -67,12 +67,3 @@ Chrome extension that adds course context directly into university pages.
 
 - Building Python tooling and automation for parking operations at UBC
 - Shipping a small iOS word puzzle game on the side
-
----
-
-## GitHub at a glance
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaquinalmora&show_icons=true&hide_border=true&title_color=111827&text_color=4b5563&icon_color=111827&bg_color=00000000&ring_color=111827" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact&hide_border=true&title_color=111827&text_color=4b5563&bg_color=00000000" alt="Top languages" />
-</p>
