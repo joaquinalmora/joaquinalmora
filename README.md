@@ -1,14 +1,24 @@
 # Joaquin Almora
 
-I build full-stack systems, developer tooling, and automation with a backend-first mindset.
+I like building full-stack systems, developer tooling, and practical automation, usually from the backend outward.
 
-Most of my work sits close to the engineering workflow: code analysis, internal tools, infrastructure edges, and the glue that makes systems easier to operate.
+Most of my work ends up close to the engineering workflow: internal tools, code analysis, infrastructure edges, and the glue that makes systems easier to operate.
 
-<p>
+<p align="center">
+  <a href="mailto:joaquin.almora@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jalmora">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-374151?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-1f2937?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -62,7 +72,9 @@ Chrome extension that adds course context directly into university pages.
 
 ---
 
-## Contact
+## GitHub at a glance
 
-✉️ <a href="mailto:joaquin.almora@gmail.com">joaquin.almora@gmail.com</a>  
-💼 <a href="https://linkedin.com/in/jalmora">LinkedIn</a>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaquinalmora&show_icons=true&hide_border=true&title_color=111827&text_color=4b5563&icon_color=111827&bg_color=00000000&ring_color=111827" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinalmora&layout=compact&hide_border=true&title_color=111827&text_color=4b5563&bg_color=00000000" alt="Top languages" />
+</p>
