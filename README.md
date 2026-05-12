@@ -1,86 +1,68 @@
 # Joaquin Almora
 
-Backend-oriented software engineer building developer tools and systems that analyze and automate software workflows. Interested in backend architecture, developer infrastructure, and AI-assisted engineering tools.
+I build full-stack systems, developer tooling, and automation with a backend-first mindset.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,js,nodejs,fastapi,postgres,docker,redis,nextjs" />
+Most of my work sits close to the engineering workflow: code analysis, internal tools, infrastructure edges, and the glue that makes systems easier to operate.
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-1f2937?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
+---
 
-## Featured Projects
+## Selected work
 
-### [DevFolio](https://github.com/COSC-499-W2025/capstone-project-team-7)
+### 🧰 [DevFolio](https://github.com/COSC-499-W2025/capstone-project-team-7)
+Desktop app for turning local repositories into structured portfolio and resume material.
 
-Desktop application that analyzes local repositories and converts source code, commit history, and project artifacts into structured portfolio and resume entries.
+- Analyzes source code, commit history, and project artifacts instead of relying on manual summaries
+- Built around a pipeline that extracts engineering signals and turns them into reusable project data
+- **Stack:** Next.js, TypeScript, FastAPI, Python, Supabase, Electron
 
-**Stack:** Next.js • TypeScript • FastAPI • Python • Supabase • Electron
+### ⚙️ [CommitGen](https://github.com/joaquinalmora/commitgen)
+CLI for generating structured commit messages directly from git diffs.
 
-#### Architecture
+- Integrates with git hooks so the workflow stays lightweight and consistent
+- Focused on practical enforcement rather than adding another manual step
+- **Stack:** Go, Git hooks
 
-```mermaid
-flowchart LR
-    A[Local Repository] --> B[Analyzer Engine]
-    B --> C[Code + Commit Signal Extraction]
-    C --> D[Structured Project Model]
-    D --> E[Portfolio / Resume Output]
-```
+### 🌐 [Course Hover Info](https://github.com/joaquinalmora/hover-course)
+Chrome extension that adds course context directly into university pages.
 
-### [CommitGen](https://github.com/joaquinalmora/commitgen)
+- Injects grade distribution and professor rating data without changing the original site
+- Built to surface useful information in-place instead of sending users somewhere else
+- **Stack:** JavaScript, Chrome Extensions
 
-CLI tool that generates structured commit messages directly from git diffs and integrates with git hooks to enforce consistent commit history. Designed to streamline commit workflows and reduce manual formatting while keeping commit logs structured and readable.
+---
 
-**Stack:** Go • Git Hooks
+## Other engineering work
 
+### 📦 Contract system
+**WhatsApp receipt processing pipeline**
 
-### [Course Hover Info](https://github.com/joaquinalmora/hover-course)
+- Processed receipt images through OpenAI Vision and returned structured confirmations over WhatsApp
+- Added retry queues, dead-letter handling, stale-confirmation suppression, and deployment validation safeguards
+- Reached **~0.78s median end-to-end latency**
 
-Chrome extension that augments UBC course pages with grade distributions and professor ratings using injected UI overlays and aggregated APIs. The extension dynamically enriches university course pages with contextual information without modifying the original site.
+### 🔧 Open source
+- **[Kubetail](https://github.com/kubetail-org/kubetail):** auth caching, RBAC log access support, CI expansion for more Ubuntu architectures
+- **[Nautobot](https://github.com/nautobot/nautobot):** clearer runtime error handling for config issues
+- **[Grafana k6](https://github.com/grafana/k6):** reliability fix for missing-configuration edge cases
+- **[go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn):** proposed Redis bloom-filter approach for leaner metadata lookups
 
-**Stack:** JavaScript • Chrome Extensions
+---
 
+## Now
 
-## Contract Work
+- Building Python tooling and automation for parking operations at UBC
+- Shipping a small iOS word puzzle game on the side
 
-### WhatsApp Receipt Processing System
+---
 
-Backend system that processes receipt images through OpenAI Vision and returns structured confirmations via WhatsApp. Built with a queued processing pipeline and reliability safeguards including retry queues, dead-letter storage, stale-confirmation suppression, and deployment validation checks.
+## Contact
 
-Achieved ~0.78s median end-to-end processing latency.
-
-
-## Open Source Work
-
-Contributions to infrastructure and developer tooling projects.
-
-**[Kubetail](https://github.com/kubetail-org/kubetail)** – Kubernetes log-streaming CLI  
-- Implemented authentication caching to reduce repeated auth requests  
-- Added RBAC permissions for log access  
-- Expanded CI to support additional Ubuntu architectures  
-
-**[Nautobot](https://github.com/nautobot/nautobot)** – Network automation platform  
-- Improved error handling and runtime messaging for configuration issues  
-
-**[Grafana k6](https://github.com/grafana/k6)** – Performance testing tool  
-- Fixed reliability issues in edge cases involving missing configuration  
-
-**[go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn)** – CDN metadata service  
-- Proposed Redis bloom-filter caching approach to reduce metadata size while maintaining fast lookups
-
-
-## Currently
-
-- Exploring AI-assisted developer workflows and diffusion coding models  
-- Publishing my first iOS game, a word-based puzzle game (Sudoku-style logic with words).
-
-
-## Connect
-
-<p align="left">
-<a href="mailto:joaquin.almora@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="24"/> joaquin.almora@gmail.com
-</a>
-<br/>
-<a href="https://linkedin.com/in/jalmora">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24"/> LinkedIn
-</a>
-</p>
+✉️ <a href="mailto:joaquin.almora@gmail.com">joaquin.almora@gmail.com</a>  
+💼 <a href="https://linkedin.com/in/jalmora">LinkedIn</a>
