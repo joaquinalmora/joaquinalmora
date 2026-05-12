@@ -1,8 +1,6 @@
 # Joaquin Almora
 
-I like building full-stack systems, developer tooling, and practical automation, usually from the backend outward.
-
-Most of my work ends up close to the engineering workflow: internal tools, code analysis, infrastructure edges, and the glue that makes systems easier to operate.
+I like building full-stack systems, developer tooling, and practical automation.
 
 <p align="center">
   <a href="mailto:joaquin.almora@gmail.com">
