@@ -1,5 +1,7 @@
 # Joaquin Almora
 
+Building full stack systems
+
 <p align="center">
   <a href="mailto:joaquin.almora@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" />
