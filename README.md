@@ -71,5 +71,5 @@ Chrome extension that adds course context directly into university pages.
 
 ## Now
 
-- Building Python tooling and automation for parking operations at UBC
+- Building tooling and automation for parking operations at UBC
 - Maintaining Wordoku, a released iOS word puzzle game
