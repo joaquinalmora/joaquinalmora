@@ -10,7 +10,6 @@ I build full-stack systems, developer tooling, automation, and small shipped pro
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-374151?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white" />
