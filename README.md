@@ -1,7 +1,5 @@
 # Joaquin Almora
 
-I build full-stack systems, developer tooling, automation, and small shipped products.
-
 <p align="center">
   <a href="mailto:joaquin.almora@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" />
