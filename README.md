@@ -1,6 +1,6 @@
 # Joaquin Almora
 
-I like building full-stack systems, developer tooling, and practical automation.
+I build full-stack systems, developer tooling, automation, and small shipped products.
 
 <p align="center">
   <a href="mailto:joaquin.almora@gmail.com">
@@ -22,6 +22,15 @@ I like building full-stack systems, developer tooling, and practical automation.
 ---
 
 ## Selected work
+
+### 🧩 [Wordoku](https://apps.apple.com/ca/app/wordoku/id6762939318)
+SwiftUI letter-sudoku puzzle app released on the iOS App Store.
+
+- Built letter-based 9x9 Sudoku gameplay with hidden-word reveals
+- Added Easy/Medium/Hard levels, Daily Challenge, streaks, undo/redo, and saved progress
+- Used solver-backed puzzle generation to avoid ambiguous or invalid boards
+- Kept the app privacy-forward with local storage, no accounts, no ads, and no tracking
+- **Stack:** SwiftUI, XCTest, UserDefaults, App Store Connect
 
 ### 🧰 [DevFolio](https://github.com/COSC-499-W2025/capstone-project-team-7)
 Desktop app for turning local repositories into structured portfolio and resume material.
@@ -66,4 +75,4 @@ Chrome extension that adds course context directly into university pages.
 ## Now
 
 - Building Python tooling and automation for parking operations at UBC
-- Shipping a small iOS word puzzle game on the side
+- Maintaining Wordoku, a released iOS word puzzle game
