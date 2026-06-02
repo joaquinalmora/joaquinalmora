@@ -28,7 +28,7 @@ SwiftUI letter-sudoku puzzle app released on the iOS App Store.
 
 - Built letter-based 9x9 Sudoku with hidden-word reveals and solver-backed puzzle generation
 - Added Daily Challenge, streaks, undo/redo, and local-only progress with no accounts or tracking
-- **Stack:** SwiftUI, XCTest, UserDefaults, App Store Connect
+- **Stack:** Swift
 
 ### 🧰 [DevFolio](https://github.com/COSC-499-W2025/capstone-project-team-7)
 Desktop app for turning local repositories into structured portfolio and resume material.
