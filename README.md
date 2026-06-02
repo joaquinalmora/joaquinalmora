@@ -26,10 +26,8 @@ I build full-stack systems, developer tooling, automation, and small shipped pro
 ### 🧩 [Wordoku](https://apps.apple.com/ca/app/wordoku/id6762939318)
 SwiftUI letter-sudoku puzzle app released on the iOS App Store.
 
-- Built letter-based 9x9 Sudoku gameplay with hidden-word reveals
-- Added Easy/Medium/Hard levels, Daily Challenge, streaks, undo/redo, and saved progress
-- Used solver-backed puzzle generation to avoid ambiguous or invalid boards
-- Kept the app privacy-forward with local storage, no accounts, no ads, and no tracking
+- Built letter-based 9x9 Sudoku with hidden-word reveals and solver-backed puzzle generation
+- Added Daily Challenge, streaks, undo/redo, and local-only progress with no accounts or tracking
 - **Stack:** SwiftUI, XCTest, UserDefaults, App Store Connect
 
 ### 🧰 [DevFolio](https://github.com/COSC-499-W2025/capstone-project-team-7)
