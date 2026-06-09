@@ -52,6 +52,25 @@ Chrome extension that adds course context directly into university pages.
 
 ---
 
+## More projects
+
+<div align="center">
+  <a href="https://github.com/joaquinalmora/strive-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinalmora&repo=strive-app&theme=github_dark&hide_border=true" alt="Strive App — Android fitness prototype for goals, workout discovery, and social progress sharing" />
+  </a>
+  <a href="https://github.com/joaquinalmora/amazons-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinalmora&repo=amazons-game&theme=github_dark&hide_border=true" alt="Amazons Game AI — Java game AI using Monte Carlo Tree Search and heuristic evaluation" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/joaquinalmora/super-bug-zapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinalmora&repo=super-bug-zapper&theme=github_dark&hide_border=true" alt="Super Bug Zapper — JavaScript and WebGL 2D and 3D game demos with real-time rendering" />
+  </a>
+</div>
+
+---
+
 ## Other engineering work
 
 ### 📦 Contract system
