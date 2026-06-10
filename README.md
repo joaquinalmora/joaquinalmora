@@ -25,24 +25,24 @@ Building full-stack tools, automation, and product-focused software.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://apps.apple.com/ca/app/wordoku/id6762939318"><strong>🧩 Wordoku</strong></a><br />
+      <strong>🧩 Wordoku</strong> <a href="https://apps.apple.com/ca/app/wordoku/id6762939318">↗</a>
       <p>SwiftUI letter-sudoku app with hidden-word reveals, daily challenges, streaks, and local-only progress.</p>
       <code>Swift</code> <code>SwiftUI</code> <code>App Store</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/COSC-499-W2025/capstone-project-team-7"><strong>🧰 DevFolio</strong></a><br />
+      <strong>🧰 DevFolio</strong> <a href="https://github.com/COSC-499-W2025/capstone-project-team-7">↗</a>
       <p>Desktop app that analyzes local repositories and turns engineering signals into portfolio and resume material.</p>
       <code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Electron</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/joaquinalmora/commitgen"><strong>⚙️ CommitGen</strong></a><br />
+      <strong>⚙️ CommitGen</strong> <a href="https://github.com/joaquinalmora/commitgen">↗</a>
       <p>Go CLI that generates structured commit messages from git diffs and integrates with git hooks.</p>
       <code>Go</code> <code>Git</code> <code>CLI</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/joaquinalmora/hover-course"><strong>🌐 Course Hover Info</strong></a><br />
+      <strong>🌐 Course Hover Info</strong> <a href="https://github.com/joaquinalmora/hover-course">↗</a>
       <p>Chrome extension that surfaces UBC grade distributions and professor ratings directly in university pages.</p>
       <code>JavaScript</code> <code>Chrome Extensions</code>
     </td>
