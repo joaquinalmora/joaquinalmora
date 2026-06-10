@@ -59,17 +59,7 @@ Building full-stack tools, automation, and product-focused software.
 
 ---
 
-## Other engineering work
+## Systems & contributions
 
-### 📦 Contract system
-**WhatsApp receipt processing pipeline**
-
-- Processed receipt images through OpenAI Vision and returned structured confirmations over WhatsApp
-- Added retry queues, dead-letter handling, stale-confirmation suppression, and deployment validation safeguards
-- Reached **~0.78s median end-to-end latency**
-
-### 🔧 Open source
-- **[Kubetail](https://github.com/kubetail-org/kubetail):** auth caching, RBAC log access support, CI expansion for more Ubuntu architectures
-- **[Nautobot](https://github.com/nautobot/nautobot):** clearer runtime error handling for config issues
-- **[Grafana k6](https://github.com/grafana/k6):** reliability fix for missing-configuration edge cases
-- **[go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn):** proposed Redis bloom-filter approach for leaner metadata lookups
+- **Contract receipt pipeline:** OpenAI Vision + WhatsApp workflow with retry queues, dead-letter handling, stale-confirmation suppression, deployment validation safeguards, and **~0.78s median end-to-end latency**.
+- **Open source:** contributed auth caching, RBAC log access support, and CI expansion to **[Kubetail](https://github.com/kubetail-org/kubetail)**; clearer runtime error handling to **[Nautobot](https://github.com/nautobot/nautobot)**; configuration-edge reliability to **[Grafana k6](https://github.com/grafana/k6)**; and Redis bloom-filter design work to **[go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn)**.
