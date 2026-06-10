@@ -51,27 +51,11 @@ Building full-stack tools, automation, and product-focused software.
 
 ---
 
-## More projects
+## Also built
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/joaquinalmora/strive-app"><strong>🏋️ Strive App</strong></a><br />
-      <p>Android fitness prototype for goals, workout discovery, and social progress sharing.</p>
-      <code>Java</code> <code>Android</code>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/joaquinalmora/amazons-game"><strong>♟️ Amazons Game AI</strong></a><br />
-      <p>Java game AI using Monte Carlo Tree Search and heuristic evaluation.</p>
-      <code>Java</code> <code>AI</code> <code>MCTS</code>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/joaquinalmora/super-bug-zapper"><strong>🕹️ Super Bug Zapper</strong></a><br />
-      <p>JavaScript/WebGL 2D and 3D game demos with real-time rendering.</p>
-      <code>JavaScript</code> <code>WebGL</code>
-    </td>
-  </tr>
-</table>
+- **[Strive App](https://github.com/joaquinalmora/strive-app)** — Android fitness prototype for goals, workout discovery, and social progress sharing.
+- **[Amazons Game AI](https://github.com/joaquinalmora/amazons-game)** — Java game AI using Monte Carlo Tree Search and heuristic evaluation.
+- **[Super Bug Zapper](https://github.com/joaquinalmora/super-bug-zapper)** — JavaScript/WebGL 2D and 3D game demos with real-time rendering.
 
 ---
 
@@ -89,10 +73,3 @@ Building full-stack tools, automation, and product-focused software.
 - **[Nautobot](https://github.com/nautobot/nautobot):** clearer runtime error handling for config issues
 - **[Grafana k6](https://github.com/grafana/k6):** reliability fix for missing-configuration edge cases
 - **[go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn):** proposed Redis bloom-filter approach for leaner metadata lookups
-
----
-
-## Now
-
-- Building tooling and automation for parking operations at UBC
-- Maintaining Wordoku, a released iOS word puzzle game
