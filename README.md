@@ -24,24 +24,24 @@ Building full-stack tools, automation, and product-focused software.
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://apps.apple.com/ca/app/wordoku/id6762939318"><strong>🧩 Wordoku</strong></a><br />
       <p>SwiftUI letter-sudoku app with hidden-word reveals, daily challenges, streaks, and local-only progress.</p>
       <code>Swift</code> <code>SwiftUI</code> <code>App Store</code>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/COSC-499-W2025/capstone-project-team-7"><strong>🧰 DevFolio</strong></a><br />
       <p>Desktop app that analyzes local repositories and turns engineering signals into portfolio and resume material.</p>
       <code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Electron</code>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/joaquinalmora/commitgen"><strong>⚙️ CommitGen</strong></a><br />
       <p>Go CLI that generates structured commit messages from git diffs and integrates with git hooks.</p>
       <code>Go</code> <code>Git</code> <code>CLI</code>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/joaquinalmora/hover-course"><strong>🌐 Course Hover Info</strong></a><br />
       <p>Chrome extension that surfaces UBC grade distributions and professor ratings directly in university pages.</p>
       <code>JavaScript</code> <code>Chrome Extensions</code>
@@ -55,17 +55,17 @@ Building full-stack tools, automation, and product-focused software.
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="33%" valign="top">
       <a href="https://github.com/joaquinalmora/strive-app"><strong>🏋️ Strive App</strong></a><br />
       <p>Android fitness prototype for goals, workout discovery, and social progress sharing.</p>
       <code>Java</code> <code>Android</code>
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <a href="https://github.com/joaquinalmora/amazons-game"><strong>♟️ Amazons Game AI</strong></a><br />
       <p>Java game AI using Monte Carlo Tree Search and heuristic evaluation.</p>
       <code>Java</code> <code>AI</code> <code>MCTS</code>
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <a href="https://github.com/joaquinalmora/super-bug-zapper"><strong>🕹️ Super Bug Zapper</strong></a><br />
       <p>JavaScript/WebGL 2D and 3D game demos with real-time rendering.</p>
       <code>JavaScript</code> <code>WebGL</code>
