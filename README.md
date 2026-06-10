@@ -1,6 +1,6 @@
-# Joaquin Almora
+<h1 align="center">Joaquin Almora</h1>
 
-Building full-stack tools, automation, and product-focused software.
+<p align="center">Building full-stack tools, automation, and product-focused software.</p>
 
 <p align="center">
   <a href="mailto:joaquin.almora@gmail.com">
@@ -10,7 +10,6 @@ Building full-stack tools, automation, and product-focused software.
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-374151?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
----
 
 ## Selected work
 
