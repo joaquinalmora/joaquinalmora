@@ -1,6 +1,6 @@
 # Joaquin Almora
 
-Building full stack systems
+Building full-stack tools, automation, and product-focused software.
 
 <p align="center">
   <a href="mailto:joaquin.almora@gmail.com">
@@ -54,20 +54,25 @@ Chrome extension that adds course context directly into university pages.
 
 ## More projects
 
-<div align="center">
-  <a href="https://github.com/joaquinalmora/strive-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinalmora&repo=strive-app&theme=github_dark&hide_border=true" alt="Strive App — Android fitness prototype for goals, workout discovery, and social progress sharing" />
-  </a>
-  <a href="https://github.com/joaquinalmora/amazons-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinalmora&repo=amazons-game&theme=github_dark&hide_border=true" alt="Amazons Game AI — Java game AI using Monte Carlo Tree Search and heuristic evaluation" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/joaquinalmora/super-bug-zapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinalmora&repo=super-bug-zapper&theme=github_dark&hide_border=true" alt="Super Bug Zapper — JavaScript and WebGL 2D and 3D game demos with real-time rendering" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="33%">
+      <a href="https://github.com/joaquinalmora/strive-app"><strong>🏋️ Strive App</strong></a><br />
+      <sub>Android fitness prototype for goals, workout discovery, and social progress sharing.</sub><br />
+      <code>Java</code> <code>Android</code>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/joaquinalmora/amazons-game"><strong>♟️ Amazons Game AI</strong></a><br />
+      <sub>Java game AI using Monte Carlo Tree Search and heuristic evaluation.</sub><br />
+      <code>Java</code> <code>AI</code> <code>MCTS</code>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/joaquinalmora/super-bug-zapper"><strong>🕹️ Super Bug Zapper</strong></a><br />
+      <sub>JavaScript/WebGL 2D and 3D game demos with real-time rendering.</sub><br />
+      <code>JavaScript</code> <code>WebGL</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
