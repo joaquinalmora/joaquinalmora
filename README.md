@@ -22,33 +22,32 @@ Building full-stack tools, automation, and product-focused software.
 
 ## Selected work
 
-### 🧩 [Wordoku](https://apps.apple.com/ca/app/wordoku/id6762939318)
-SwiftUI letter-sudoku puzzle app released on the iOS App Store.
-
-- Built letter-based 9x9 Sudoku with hidden-word reveals and solver-backed puzzle generation
-- Added Daily Challenge, streaks, undo/redo, and local-only progress with no accounts or tracking
-- **Stack:** Swift
-
-### 🧰 [DevFolio](https://github.com/COSC-499-W2025/capstone-project-team-7)
-Desktop app for turning local repositories into structured portfolio and resume material.
-
-- Analyzes source code, commit history, and project artifacts instead of relying on manual summaries
-- Built around a pipeline that extracts engineering signals and turns them into reusable project data
-- **Stack:** Next.js, TypeScript, FastAPI, Python, Supabase, Electron
-
-### ⚙️ [CommitGen](https://github.com/joaquinalmora/commitgen)
-CLI for generating structured commit messages directly from git diffs.
-
-- Integrates with git hooks so the workflow stays lightweight and consistent
-- Focused on practical enforcement rather than adding another manual step
-- **Stack:** Go, Git hooks
-
-### 🌐 [Course Hover Info](https://github.com/joaquinalmora/hover-course)
-Chrome extension that adds course context directly into university pages.
-
-- Injects grade distribution and professor rating data without changing the original site
-- Built to surface useful information in-place instead of sending users somewhere else
-- **Stack:** JavaScript, Chrome Extensions
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://apps.apple.com/ca/app/wordoku/id6762939318"><strong>🧩 Wordoku</strong></a><br />
+      <sub>SwiftUI letter-sudoku app with hidden-word reveals, daily challenges, streaks, and local-only progress.</sub><br />
+      <code>Swift</code> <code>SwiftUI</code> <code>App Store</code>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/COSC-499-W2025/capstone-project-team-7"><strong>🧰 DevFolio</strong></a><br />
+      <sub>Desktop app that analyzes local repositories and turns engineering signals into portfolio and resume material.</sub><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Electron</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/joaquinalmora/commitgen"><strong>⚙️ CommitGen</strong></a><br />
+      <sub>Go CLI that generates structured commit messages from git diffs and integrates with git hooks.</sub><br />
+      <code>Go</code> <code>Git</code> <code>CLI</code>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/joaquinalmora/hover-course"><strong>🌐 Course Hover Info</strong></a><br />
+      <sub>Chrome extension that surfaces UBC grade distributions and professor ratings directly in university pages.</sub><br />
+      <code>JavaScript</code> <code>Chrome Extensions</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
