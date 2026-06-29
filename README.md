@@ -4,10 +4,11 @@
 
 <p align="center">
   <a href="mailto:joaquin.almora@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Joaquin Almora | Email" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
   </a>
-  <a href="https://linkedin.com/in/jalmora">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-374151?style=flat-square&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jalmora/">
+    <img alt="Joaquin Almora | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
   </a>
 </p>
 
