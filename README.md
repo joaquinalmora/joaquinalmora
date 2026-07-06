@@ -54,4 +54,4 @@
 ## Systems & contributions
 
 - **Contract receipt pipeline:** OpenAI Vision + WhatsApp workflow with retry queues, dead-letter handling, stale-confirmation suppression, deployment validation safeguards, and **~0.78s median end-to-end latency**.
-- **Open source:** contributed auth caching, RBAC log access support, and CI expansion to **[Kubetail](https://github.com/kubetail-org/kubetail)**; clearer runtime error handling to **[Nautobot](https://github.com/nautobot/nautobot)**; configuration-edge reliability to **[Grafana k6](https://github.com/grafana/k6)**; and Redis bloom-filter design work to **[go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn)**.
+- **Open source:** contributed Kubernetes auth/RBAC fixes, Rust/Go log-streaming validation, Ubuntu package-healthcheck CI, and Helm docs to **[Kubetail](https://github.com/kubetail-org/kubetail)**; clearer runtime error handling to **[Nautobot](https://github.com/nautobot/nautobot)**; configuration-edge reliability to **[Grafana k6](https://github.com/grafana/k6)**; and Redis bloom-filter design work to **[go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn)**.
