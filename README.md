@@ -22,7 +22,7 @@
       <code>Swift</code> <code>SwiftUI</code> <code>App Store</code>
     </td>
     <td width="50%" valign="top">
-      <strong>🧰 DevFolio</strong> <a href="https://github.com/COSC-499-W2025/capstone-project-team-7">↗</a>
+      <strong>🧰 DevFolio</strong> <a href="https://github.com/joaquinalmora/devfolio-sample">↗</a>
       <p>Desktop app that analyzes local repositories and turns engineering signals into portfolio and resume material.</p>
       <code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Electron</code>
     </td>
