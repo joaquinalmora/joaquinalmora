@@ -51,7 +51,17 @@
 
 ---
 
+## Research
+
+- **Honours thesis, UBC Okanagan:** Diffusion-based code generation.
+- **Directed studies, BC Cancer:** Natural language processing.
+- **[Wordoku AI](https://github.com/joaquinalmora/wordoku-ai):** Exploring neural-guided constraint search for puzzle solving.
+
+---
+
 ## Systems & contributions
 
-- **Contract receipt pipeline:** OpenAI Vision + WhatsApp workflow with retry queues, dead-letter handling, stale-confirmation suppression, deployment validation safeguards, and **~0.78s median end-to-end latency**.
-- **Open source:** contributed Kubernetes auth/RBAC fixes, Rust/Go log-streaming validation, Ubuntu package-healthcheck CI, and Helm docs to **[Kubetail](https://github.com/kubetail-org/kubetail)**; clearer runtime error handling to **[Nautobot](https://github.com/nautobot/nautobot)**; configuration-edge reliability to **[Grafana k6](https://github.com/grafana/k6)**; and Redis bloom-filter design work to **[go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn)**.
+- **Contract receipt pipeline:** OpenAI Vision + WhatsApp workflow with retry queues, dead-letter handling, stale-confirmation suppression, deployment validation safeguards, and **~0.78s median webhook/agent response**; extraction and retries run asynchronously.
+- **Kubetail:** Kubernetes [authorization caching](https://github.com/kubetail-org/kubetail/pull/934), [log-access RBAC](https://github.com/kubetail-org/kubetail/pull/936), and [Ubuntu architecture CI coverage](https://github.com/kubetail-org/kubetail/pull/958).
+- **Nautobot:** [Fixed a crash when the cache timeout setting is missing](https://github.com/nautobot/nautobot/pull/8510).
+- **Grafana k6:** [Improved error wrapping in browser actionability functions](https://github.com/grafana/k6/pull/5610).
